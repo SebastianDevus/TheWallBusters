@@ -1,6 +1,33 @@
-This mod is not balanced at all.
++=== Credits ===+
+Credits to Lynx for his tutorial series on modding.
+
++=== Description ===+
 The Wall Busters is a mod that adds two hammers that break walls VERY FAST.
 
+The Wall Buster Mk.I is crafted with 10 wood and 10 stone @ a workbench
+The Wall Buster Mk.II is crafted with a Pwnhammer and either 1 ebonstone OR 1 crimstone @ a workbench
+
+This mod is not balanced at all.
 Im not a good artist, so if you wish to make better sprites, send me a DM and ill credit you in the description.
 
-Credits to Lynx for his tutorial series on modding.
+
++=== Links ===+
+Check out the terrible source code here: https://github.com/SebastianDevus/TheWallBusters
+
+
++=== Supported languages ===+
+English (US)
+Português (BR)
+
+If you wish to help with localization, leave a comment, send a DM or make a commit in github.
+
+
++=== Update history ===+
+
+### Version 1.0
+= Initial release
++ Adds The Wall Buster Mk.I and Mk.II
+
+### Version 1.1
++ Adds proper English (US) localization
++ Adds Brazilian Portuguese (Português Brasileiro) localization

@@ -9,9 +9,6 @@ namespace TheWallBusters.Items
     {
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("The Wall Buster Mk.I");
-            Tooltip.SetDefault("Destroys walls at the speed of sound");
-
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 1;
         }
 

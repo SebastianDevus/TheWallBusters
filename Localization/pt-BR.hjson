@@ -1,0 +1,13 @@
+Mods:{
+    TheWallBusters:{
+        ItemName:{
+            WallBusterMk1:"O Derruba-Paredes Ed.I"
+            WallBusterMk2:"O Derruba-Paredes Ed.II"
+        }
+
+        ItemTooltip:{
+            WallBusterMk1:"Destrói paredes na velocidade do som."
+            WallBusterMk2:"Destrói paredes (e altares do mal) na velocidade da luz."
+        }
+    }
+}

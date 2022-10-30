@@ -1,0 +1,13 @@
+Mods:{
+    TheWallBusters:{
+        ItemName:{
+            WallBusterMk1:"The Wall Buster Mk.I"
+            WallBusterMk2:"The Wall Buster Mk.II"
+        }
+
+        ItemTooltip:{
+            WallBusterMk1:"Destroys walls at the speed of sound."
+            WallBusterMk2:"Destroys walls (and evil altars) at the speed of light."
+        }
+    }
+}
