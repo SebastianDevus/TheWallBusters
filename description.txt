@@ -31,3 +31,7 @@ If you wish to help with localization, leave a comment, send a DM or make a comm
 ### Version 1.1
 + Adds proper English (US) localization
 + Adds Brazilian Portuguese (Português Brasileiro) localization
+
+### Version 1.2
++ Adds Wall Buster Mk.I as a starting item
++ Adds config file with option to disable Wall Buster Mk.I as starting item
